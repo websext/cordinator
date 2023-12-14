@@ -1,0 +1,2 @@
+export default
+`<table border="0" cellpadding="0" cellspacing="0"><tr><td>App Dimenssion</td><td class="dimenssion"></td></tr><tr><td>Screen</td><td class="cord screen">0x0</td></tr><tr><td>Movement</td><td class="cord movement">0x0</td></tr><tr><td>Offset</td><td class="cord offset">0x0</td></tr><tr><td>Layer</td><td class="cord layer">0x0</td></tr><tr><td>Cordinate</td><td class="cord client">0x0</td></tr></table>`;
